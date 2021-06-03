@@ -1,0 +1,155 @@
+.wholebody{
+    background-color: #243042;
+    max-width: 700px;
+}
+.aba{
+    color: purple;
+    text-align: center;
+}
+.head{
+    text-align: center;
+    line-height: 10px;
+    margin-top: 40px;
+}
+.first{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.present, .xtra{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.work, .skill{
+    margin-left: 75px;
+}
+.fooot{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.poo{
+    margin-right: 30px;
+    padding: 5px;
+    background-color: #EBEBEB;
+    border: 1px solid #EBEBEB ;
+    border-radius: 7px;
+
+}
+.poof{
+    background-color: #1E88F5;
+    padding: 5px;
+    color: white;
+    background-color: #1E88F5;
+    border: 1px solid  ;
+    border-radius: 7px;
+}
+
+/* hssjgjjskjdu */
+
+.mholebody{
+    background-color: #ffffff ;
+    max-width: 700px;
+    display: flex;
+    position: relative;
+}
+.part1{
+    background-color: #CD9565;
+    flex: 1;
+    margin: 20px 0;
+}
+.part2{
+    flex: 3;
+}
+.order{
+    display: flex;
+    margin-left: 150px;
+    justify-content: space-between;
+    line-height: 10px;
+}
+.pro{
+    margin-left: 150px;
+    margin-top: 5px;
+}
+.product{
+    color: #CD9565;
+}
+.product,.address{
+    margin-left: 150px;
+    margin-top: 90px;
+}
+img{
+    width: 35%;
+    position: absolute;
+    left: 40px;
+    top: 90px;
+}
+
+/* hgjcssjkgsjg */
+
+.parent{
+    background-color: #EB8591;
+    display: flex;
+    max-width: 750px;
+}
+.father{
+    flex: 1;
+    background-color: #64D6C4;
+}
+.mother{
+    flex: 1;
+    background-color: #243042;
+}
+.up{
+    display: flex;
+    justify-content: flex-end;
+}
+.up1{
+    background-color: #4A5B70;
+    color: white;
+    padding: 4px;
+    border-radius: 16px;
+}
+.up2{
+    background-color: #5ED0C0;
+    color: white;
+    margin-left: 4px;
+    padding: 4px;
+    border-radius: 16px;
+}
+.choice{
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+    word-spacing: 7px;
+}
+.fullname, .pass, .mail{
+    margin-left: 40px;
+    margin-top: 45px;
+}
+.fullname h4, .pass h4, .mail h4 {
+color: white;
+}
+.agree{
+    color: white;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.member{
+    display: flex;
+    color: white;
+    align-content: center;
+    justify-content: center;
+}
+.memb{
+    background-color: #58CABC;
+    padding: 4px;
+    border-radius: 15px;
+}
+.mem{
+    margin-left: 40px;
+}
+
+/* section */
+
